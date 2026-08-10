@@ -1,0 +1,4 @@
+[package]
+name = "tcp_echo_db6712"
+version = "0.0.0"
+edition = "2021"
